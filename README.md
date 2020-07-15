@@ -6,7 +6,7 @@
 </ul>
 <h1>Demo</h1>
 <pre>
-<li>
+<li style="display:flex;">
 <img src="./assets/screenshots/white.jpg" />
 <img src="./assets/screenshots/black.jpg" />
 </li>

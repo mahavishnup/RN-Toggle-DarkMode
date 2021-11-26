@@ -4,7 +4,7 @@
 <ul>
 <li><pre>npm i @expo/vector-icons</pre></li>
 </ul>
-<h1>Demo</h1>
+<h1>Demo Link</h1>
 <pre>
 <li style="display:flex;">
 <img src="./assets/screenshots/white.jpg" />
